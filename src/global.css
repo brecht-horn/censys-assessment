@@ -15,7 +15,8 @@
 
 .navBar {
   display: flex;
-  justify-content: center;
+  justify-content: left;
+  margin: 0 10% 0 9%;
   height: 80px;
   width: 100vw;
   border-bottom-color: rgb(220, 221, 232);
@@ -26,7 +27,7 @@
 .searchInput {
   background-color: rgb(249, 249, 249);
   height: 40px;
-  width: 50vw;
+  width: 48vw;
   border: 1px solid lightgrey;
   padding-left: 10px;
   font-size: 14px;
@@ -41,7 +42,7 @@
   border-radius: 0px;
   font-size: 14px;
   color: white;
-  padding: 0 25px 0 25px;
+  padding: 0 24px 0 24px;
 }
 
 .logo {
