@@ -41,7 +41,7 @@ npm run test
 ```
 
 ## General Approach
-I created this app using Javascript, React and Vite, to leverage their readability, testability, and performance capabilities. I'm personally a big fan of how react abstracts way my interaction with the DOM and creates easy state management with 'UseState'.
+I created this app using Javascript, React and Vite, to leverage their readability, testability, and performance capabilities. I'm personally a big fan of how React abstracts away my interaction with the DOM and lets me think of state changes throughout the render lifecycle.
 
 What I would improve given more time --
 - Incorporate the .env file for added security. It gave me some problems but rather than spend too much time on it during the assessment, I simply moved on.
